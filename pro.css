@@ -1,13 +1,11 @@
-body{
-    background-image: url(bg3.jpeg);
-    
-}
+
 .container{
     background-image: url(bg4.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
     width: 100%;
+    margin:auto;
     padding: 20px;
     border-radius: 30px; 
     font-family: cursive; 
