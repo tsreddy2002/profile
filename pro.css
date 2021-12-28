@@ -16,10 +16,11 @@
 .photo{
     text-align: center;
     font-size: x-large;
-    position: relative;
+    
 }
 .photo img{
     border-radius: 2000px;
+    position: right;
 }
 .details{
     text-align: left;
