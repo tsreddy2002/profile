@@ -1,0 +1,33 @@
+body{
+    background-image: url(../Images/bg3.jpeg);
+    
+}
+.container{
+    background-image: url(../Images/bg4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    border-radius: 30px; 
+    font-family: cursive; 
+    box-shadow: 20px;     
+}
+.photo{
+    text-align: center;
+    font-size: x-large; 
+}
+.photo img{
+    border-radius: 2000px;
+}
+.details{
+    text-align: left;
+}
+hr{
+    border-width: 3px;
+    border-color:peru;
+}
+p{
+    font-size: x-large;
+    
+}
