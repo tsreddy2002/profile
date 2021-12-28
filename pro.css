@@ -20,6 +20,8 @@
 }
 .photo img{
     border-radius: 2000px;
+    position: relative;
+    margin: auto;
 
 }
 .details{
