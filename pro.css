@@ -9,7 +9,13 @@
     padding: 20px;
     border-radius: 30px; 
     font-family: cursive; 
-    box-shadow: 20px;     
+    box-shadow: 20px;
+    
+    width:200px
+margin:auto;
+background: #fff;
+box-shadow: 0 4px 10px 0 rgba(0,0,0,0.5);
+border-radius:5%;
 }
 .photo{
     text-align: center;
