@@ -22,8 +22,8 @@
     border-radius: 2000px;
     position: relative;
     margin: auto;
-    height: 20px;
-    width: 20px;
+    height: auto;
+    width: auto;
 
 }
 .details{
